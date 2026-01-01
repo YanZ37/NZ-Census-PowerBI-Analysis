@@ -101,9 +101,3 @@ The focus is on **interpretation and insight**, not causal inference.
 
 - **Power BI** – data modelling and dashboard design
 - **Census summary data** – Statistics New Zealand
-
----
-
-## Repository Structure (Suggested)
-
-
